@@ -1,0 +1,32 @@
+body{
+    background: black;
+    color: rgb(0, 172, 26);
+    font-family: cursive;
+    margin = 0; padding = 0;
+}
+
+.cover-dimmer{
+    background: rgba(0,0,0,0.6);
+    border-radius: 10px;
+    padding: 10px;
+}
+.cover1{
+    background: url(images/%D0%B5%D0%B3%D0%BE%D1%80%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B1%D0%B0%D0%BB.png);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 5%;
+    color: rgba(0, 172, 26, 0.6);
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 1.5rem
+}
+.NO{
+    font-size: 3rem;
+    margin-top: 10em
+}
